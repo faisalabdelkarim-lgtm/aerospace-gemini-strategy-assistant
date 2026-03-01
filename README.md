@@ -90,6 +90,7 @@ It is ideal for roles such as:
 
 Faisal Abdelkarim — Electrical Engineer & Industrial Molding Operator in Aerospace Manufacturing 
 Focused on AI automation, technical writing, and industrial process optimization.
+🔗 LinkedIn: https://www.linkedin.com/in/faisal-abdelkarim-a441a5377
 
 
 ## Project Structure
