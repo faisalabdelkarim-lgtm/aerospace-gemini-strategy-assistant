@@ -88,7 +88,7 @@ It is ideal for roles such as:
 
 ## Author
 
-Faisal — Electrical Engineer & Industrial Molding Operator in Aerospace Manufacturing 
+Faisal Abdelkarim — Electrical Engineer & Industrial Molding Operator in Aerospace Manufacturing 
 Focused on AI automation, technical writing, and industrial process optimization.
 
 
