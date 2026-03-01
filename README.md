@@ -31,9 +31,6 @@ This assistant helps engineers and decision-makers:
 
 ---
 
-
----
-
 ## How It Works
 
 1. You provide a manufacturing issue (e.g., defects, downtime, scrap).  
